@@ -4,8 +4,8 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+<img src="assets/images/jason-leung-1DjbGRDh7-E-unsplash.jpg" alt="Photo" hspace="20" width="30%" align="right"/> My name is Karine, originally from Russia, Saint-Petersburg. Now I live in Lahti. I have a study background (university) in General Linguistics (& Finnish, Chinese linguistics) and some subjects of Language technology. Now, my major is Language Technology, the Master’s Programme Linguistic Diversity and Digital Humanities (LingDig). 
+Language technology combines linguistics, computer science, information technology, mathematics, cognitive science, phonetics, psychology, translation studies and research artificial intelligence.  
 ## Find me on
 
 [LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
