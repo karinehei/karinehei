@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Karine Heinonen
 
-<!--
-**karinehei/karinehei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer · Full Stack · Cloud & Applied AI**
 
-Here are some ideas to get you started:
+I build web applications and cloud infrastructure, with experience
+across software development, automated testing, and production monitoring.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current projects explore retrieval-augmented generation (RAG),
+AI agent evaluation, and making AI answers traceable to their sources.
+My background in linguistics also shapes my interest in language,
+search, and how people interact with software.
+
+### Technologies I work with
+
+- **Development:** TypeScript, JavaScript, Angular, Node.js, Python
+- **Cloud & DevOps:** AWS, Terraform, Ansible, Docker, GitHub Actions
+- **Testing & monitoring:** Playwright, Robot Framework, Jest, Datadog
+- **Data & AI:** PostgreSQL, Qdrant, embeddings, retrieval evaluation
+
+Based in Finland.
