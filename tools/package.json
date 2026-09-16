@@ -1,0 +1,13 @@
+{
+  "name": "find-the-signal-export",
+  "private": true,
+  "type": "module",
+  "description": "Development tooling to capture Find the Signal as a GIF and still PNG.",
+  "scripts": {
+    "export": "node export-find-the-signal.mjs"
+  },
+  "dependencies": {
+    "ffmpeg-static": "^5.2.0",
+    "puppeteer-core": "^24.22.3"
+  }
+}

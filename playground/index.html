@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>Find the Signal — local preview</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main>
+    <header class="intro">
+      <h1>Find the Signal</h1>
+      <p class="subtitle">From a question to evidence.</p>
+    </header>
+
+    <div class="stage-frame" id="stage-frame" aria-hidden="true" inert>
+      <div class="stage-inner" id="stage-inner">
+        <svg
+          class="viz"
+          viewBox="0 0 960 360"
+          width="960"
+          height="360"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <g id="grid" fill="none" stroke="rgba(148, 163, 184, 0.09)" stroke-width="1">
+            <line x1="80" y1="24" x2="80" y2="336" />
+            <line x1="160" y1="24" x2="160" y2="336" />
+            <line x1="240" y1="24" x2="240" y2="336" />
+            <line x1="320" y1="24" x2="320" y2="336" />
+            <line x1="400" y1="24" x2="400" y2="336" />
+            <line x1="480" y1="24" x2="480" y2="336" />
+            <line x1="560" y1="24" x2="560" y2="336" />
+            <line x1="640" y1="24" x2="640" y2="336" />
+            <line x1="720" y1="24" x2="720" y2="336" />
+            <line x1="800" y1="24" x2="800" y2="336" />
+            <line x1="880" y1="24" x2="880" y2="336" />
+            <line x1="40" y1="40" x2="920" y2="40" />
+            <line x1="40" y1="100" x2="920" y2="100" />
+            <line x1="40" y1="160" x2="920" y2="160" />
+            <line x1="40" y1="220" x2="920" y2="220" />
+            <line x1="40" y1="280" x2="920" y2="280" />
+            <line x1="40" y1="340" x2="920" y2="340" />
+          </g>
+          <g id="connectors" fill="none" stroke="#60A5FA" stroke-width="1"></g>
+          <g id="field-points"></g>
+          <g id="query">
+            <circle r="15" fill="none" stroke="#60A5FA" stroke-width="1.25" opacity="0.4" />
+            <circle r="4.25" fill="#60A5FA" />
+            <path
+              d="M-22 0h10M12 0h10M0 -22v10M0 12v10"
+              fill="none"
+              stroke="#60A5FA"
+              stroke-width="1.25"
+              stroke-linecap="round"
+            />
+          </g>
+        </svg>
+
+        <div class="overlay">
+          <p class="phase-label" id="phase-label">QUESTION</p>
+          <p class="rerank-caption" id="rerank-caption">Five candidates → three selected sources</p>
+          <p class="question" id="question">How can we make AI answers traceable?</p>
+          <p class="query-caption" id="query-caption">Query</p>
+          <ul class="candidates" id="candidates" aria-hidden="true"></ul>
+          <p class="answer" id="answer">
+            Keep source identifiers <span class="cite">[1]</span>,
+            link claims to citations <span class="cite">[2]</span>,
+            and check whether the cited evidence supports each claim <span class="cite">[3]</span>.
+          </p>
+          <p class="viz-label" id="map-label">Illustrative embedding projection</p>
+          <p class="viz-label" id="demo-label">Prepared demonstration</p>
+        </div>
+      </div>
+    </div>
+
+    <section class="story" aria-hidden="true">
+      <p class="story-kicker">Prepared demonstration</p>
+      <p class="story-question">How can we make AI answers traceable?</p>
+      <p class="story-answer">
+        Keep source identifiers <span class="cite">[1]</span>,
+        link claims to citations <span class="cite">[2]</span>,
+        and check whether the cited evidence supports each claim
+        <span class="cite">[3]</span>.
+      </p>
+      <ul class="story-sources">
+        <li><span class="cite">[1]</span> Source metadata</li>
+        <li><span class="cite">[2]</span> Citation mapping</li>
+        <li><span class="cite">[3]</span> Evidence checks</li>
+      </ul>
+    </section>
+
+    <div class="controls" role="group" aria-label="Animation controls">
+      <button type="button" id="btn-play">Pause</button>
+      <button type="button" id="btn-restart">Restart</button>
+      <div class="timeline-wrap">
+        <label for="timeline">Timeline</label>
+        <input
+          id="timeline"
+          type="range"
+          min="0"
+          max="12000"
+          step="100"
+          value="0"
+        >
+        <span id="time-display">0.0 / 12.0s</span>
+      </div>
+    </div>
+
+    <p class="note">
+      This is a prepared illustration of retrieval and reranking,
+      not a live AI system. Positions and selected sources are fixed
+      demonstration data, not computed embeddings or relevance scores.
+    </p>
+
+    <p class="visually-hidden" id="stage-summary">
+      Find the Signal is a 12-second prepared demonstration.
+      A question asks how AI answers can be made traceable.
+      An illustrative embedding projection then shows a query among
+      document points and five candidate documents.
+      Those candidates are reranked, and three sources are kept:
+      source metadata, citation mapping, and evidence checks.
+      The prepared answer cites those three sources.
+      Two less relevant candidates fade away.
+      The map is an illustration only; two-dimensional distance is not
+      a real measure of relevance.
+    </p>
+  </main>
+
+  <script src="main.js" defer></script>
+</body>
+</html>
