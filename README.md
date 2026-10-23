@@ -64,6 +64,15 @@ through GitHub Actions.
 [Explore the reports](https://karinehei.github.io/phds-data-pipeline-as-code/) ·
 [Source code](https://github.com/karinehei/phds-data-pipeline-as-code)
 
+**TherapyCare**  
+A full-stack clinic-management project built with React, TypeScript,
+Django REST Framework, and PostgreSQL. The browser demo lets visitors
+explore therapist search, appointment booking, and referral workflows
+using fictional data and simulated roles.
+
+[Try the demo](https://karinehei.github.io/TherapyCare/) ·
+[Source code](https://github.com/karinehei/TherapyCare)
+
 ### Technologies I work with
 
 - **Development:** TypeScript, JavaScript, Angular, Node.js, Python
