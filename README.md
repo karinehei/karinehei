@@ -2,26 +2,22 @@
 
 **Software Engineer · Full Stack & Applied AI**
 
-I build web applications, cloud infrastructure, and AI-assisted workflows.
-I'm also a doctoral student in Information Studies at Tampere University,
-researching RAG evaluation through technical measures and human assessment.
+I build web applications and cloud infrastructure.
+I'm also a doctoral student in Information Studies at Tampere University, researching RAG evaluation through technical measures and human assessment.
 
 ### Featured projects
 
 **TherapyCare** — Clinic workflows with appointments and referrals.  
-[Interactive demo](https://karinehei.github.io/TherapyCare/) ·
-[Code](https://github.com/karinehei/TherapyCare)  
-<sub>React · TypeScript · Django · PostgreSQL — fictional demo data</sub>
+[Interactive demo](https://karinehei.github.io/TherapyCare/) · [Code](https://github.com/karinehei/TherapyCare)  
+<sub>React · Django · PostgreSQL — fictional demo data</sub>
 
 **SoteOps Agent** — Access-request preparation with policy checks and human approval.  
-[Recorded walkthrough](https://github.com/karinehei/soteops-agent/blob/main/docs/walkthrough/README.md) ·
-[Code](https://github.com/karinehei/soteops-agent)  
+[Recorded walkthrough](https://github.com/karinehei/soteops-agent/blob/main/docs/walkthrough/README.md) · [Code](https://github.com/karinehei/soteops-agent)  
 <sub>Next.js · FastAPI · LangGraph — synthetic data and simulated AI</sub>
 
 **Paw & Pine Commerce** — Multilingual shopping experience with Shopify integration.  
-[Storefront demo](https://paw-pine-commerce.vercel.app/) ·
-[Code](https://github.com/karinehei/paw_pine-_commerce)  
-<sub>Next.js · TypeScript · Shopify · Playwright</sub>
+[Storefront demo](https://paw-pine-commerce.vercel.app/) · [Code](https://github.com/karinehei/paw_pine-_commerce)  
+<sub>Next.js · Shopify · Playwright</sub>
 
 <details>
 <summary>More projects — UX, machine learning & data</summary>
@@ -46,8 +42,7 @@ researching RAG evaluation through technical measures and human assessment.
 
 ### Core tools
 
-TypeScript · Angular · React · Python · Node.js · PostgreSQL ·
-AWS · Terraform · Docker · GitHub Actions · Playwright
+TypeScript · React · Python · Node.js · PostgreSQL · AWS · Docker · Playwright
 
 <details>
 <summary>Find the Signal — a retrieval animation</summary>
