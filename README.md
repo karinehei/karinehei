@@ -20,11 +20,15 @@ I'm also a doctoral student in Information Studies at Tampere University, resear
 <sub>Next.js · Shopify · Playwright</sub>
 
 <details>
-<summary>More projects — UX, machine learning & data</summary>
+<summary>More projects — AI, architecture, UX & data</summary>
 
 - **Transparent News Assistant** — Explore RAG answers, source citations, retrieval details, and audit history through prepared examples.
   [Interactive demo](https://karinehei.github.io/qdrant_transparent_news_assistant/) ·
   [Code](https://github.com/karinehei/qdrant_transparent_news_assistant)
+
+- **Atlas · Architecture Explorer** — Edit RAG architecture diagrams, trace dependencies, and export models for Python-generated documentation.
+  [Interactive demo](https://karinehei.github.io/architecture-explorer/#overview) ·
+  [Code](https://github.com/karinehei/architecture-explorer)
 
 - **Matkalle:** journey planning and ticket-selection prototype.
   [Demo](https://karinehei.github.io/matkalle-figma/) ·
