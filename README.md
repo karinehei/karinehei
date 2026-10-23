@@ -1,10 +1,12 @@
 # Hi, I'm Karine Heinonen
 
-**Software Engineer · Full Stack · Cloud & Applied AI**
+**Software Engineer · Full Stack & Applied AI · Doctoral Student**
 
 I have a background in engineering and linguistics. I build web applications and cloud infrastructure, drawing on experience in software development, automated testing, and production monitoring.
 
-My current projects focus on retrieval-augmented generation (RAG), AI agent evaluation, and making AI answers traceable to their sources. I combine an engineering approach to building reliable systems with an interest in language, search, and how people interact with software.
+I am also a doctoral student in Information Studies at Tampere
+University. My research focuses on evaluating retrieval-augmented
+generation (RAG), combining technical measures with human assessment.
 
 ![Animated illustration of a question moving through retrieval and reranking to an answer with source citations.](assets/find-the-signal.gif)
 
@@ -41,6 +43,26 @@ synthetic data and simulated AI.
 
 [Watch the walkthrough](https://github.com/karinehei/soteops-agent/blob/main/docs/walkthrough/README.md) ·
 [Source code](https://github.com/karinehei/soteops-agent)
+
+**GeoSample Explorer**  
+A full-stack geospatial application built with React, TypeScript,
+ASP.NET Core, and SQLite for managing field observations, filtering
+map data, and exporting GeoJSON. Includes automated tests and GitHub
+Actions CI. A separate public demo visualizes occupational-disease
+case counts by Finnish region and year.
+
+[Explore the regional demo](https://karinehei.github.io/GeoSample-Explorer/worklife-regions.html?year=all) ·
+[Source code & application walkthrough](https://github.com/karinehei/GeoSample-Explorer)
+
+**Reproducible Data Pipeline & Reporting**  
+An R-based data pipeline with schema validation, reproducible workflows
+using targets and renv, automated tests, and Quarto reporting.
+Includes a synthetic healthcare example and an analysis of published
+Finnish occupational-disease data, with reports built and published
+through GitHub Actions.
+
+[Explore the reports](https://karinehei.github.io/phds-data-pipeline-as-code/) ·
+[Source code](https://github.com/karinehei/phds-data-pipeline-as-code)
 
 ### Technologies I work with
 
