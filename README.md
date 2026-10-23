@@ -22,6 +22,10 @@ I'm also a doctoral student in Information Studies at Tampere University, resear
 <details>
 <summary>More projects — UX, machine learning & data</summary>
 
+- **Transparent News Assistant** — Explore RAG answers, source citations, retrieval details, and audit history through prepared examples.
+  [Interactive demo](https://karinehei.github.io/qdrant_transparent_news_assistant/) ·
+  [Code](https://github.com/karinehei/qdrant_transparent_news_assistant)
+
 - **Matkalle:** journey planning and ticket-selection prototype.
   [Demo](https://karinehei.github.io/matkalle-figma/) ·
   [Code](https://github.com/karinehei/matkalle-figma)
