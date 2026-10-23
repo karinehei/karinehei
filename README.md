@@ -1,83 +1,63 @@
-# Hi, I'm Karine Heinonen
+# Karine Heinonen
 
-**Software Engineer · Full Stack & Applied AI · Doctoral Student**
+**Software Engineer · Full Stack & Applied AI**
 
-I have a background in engineering and linguistics. I build web applications and cloud infrastructure, drawing on experience in software development, automated testing, and production monitoring.
+I build web applications, cloud infrastructure, and AI-assisted workflows.
+I'm also a doctoral student in Information Studies at Tampere University,
+researching RAG evaluation through technical measures and human assessment.
 
-I am also a doctoral student in Information Studies at Tampere
-University. My research focuses on evaluating retrieval-augmented
-generation (RAG), combining technical measures with human assessment.
+### Featured projects
 
-![Animated illustration of a question moving through retrieval and reranking to an answer with source citations.](assets/find-the-signal.gif)
+**TherapyCare** — Clinic workflows with appointments and referrals.  
+[Interactive demo](https://karinehei.github.io/TherapyCare/) ·
+[Code](https://github.com/karinehei/TherapyCare)  
+<sub>React · TypeScript · Django · PostgreSQL — fictional demo data</sub>
+
+**SoteOps Agent** — Access-request preparation with policy checks and human approval.  
+[Recorded walkthrough](https://github.com/karinehei/soteops-agent/blob/main/docs/walkthrough/README.md) ·
+[Code](https://github.com/karinehei/soteops-agent)  
+<sub>Next.js · FastAPI · LangGraph — synthetic data and simulated AI</sub>
+
+**Paw & Pine Commerce** — Multilingual shopping experience with Shopify integration.  
+[Storefront demo](https://paw-pine-commerce.vercel.app/) ·
+[Code](https://github.com/karinehei/paw_pine-_commerce)  
+<sub>Next.js · TypeScript · Shopify · Playwright</sub>
+
+<details>
+<summary>More projects — UX, machine learning & data</summary>
+
+- **Matkalle:** journey planning and ticket-selection prototype.
+  [Demo](https://karinehei.github.io/matkalle-figma/) ·
+  [Code](https://github.com/karinehei/matkalle-figma)
+
+- **Cargo Risk ML Lab:** model comparisons and offline predictions on synthetic data.
+  [Results](https://karinehei.github.io/Cargo-Risk-ML-Lab/) ·
+  [Code](https://github.com/karinehei/Cargo-Risk-ML-Lab)
+
+- **GeoSample Explorer:** full-stack geospatial application with a separate regional statistics demo.
+  [Map demo](https://karinehei.github.io/GeoSample-Explorer/worklife-regions.html?year=all) ·
+  [Code](https://github.com/karinehei/GeoSample-Explorer)
+
+- **Reproducible Data Pipeline:** R workflows, validation, and automated Quarto reports.
+  [Reports](https://karinehei.github.io/phds-data-pipeline-as-code/) ·
+  [Code](https://github.com/karinehei/phds-data-pipeline-as-code)
+
+</details>
+
+### Core tools
+
+TypeScript · Angular · React · Python · Node.js · PostgreSQL ·
+AWS · Terraform · Docker · GitHub Actions · Playwright
+
+<details>
+<summary>Find the Signal — a retrieval animation</summary>
+
+A prepared illustration of retrieval, reranking, and source citations.
+
+![A question moves through retrieval and reranking to an answer with source citations.](assets/find-the-signal.gif)
 
 [View the still image](assets/find-the-signal-static.png)
 
-### Selected projects
-
-**Paw & Pine Commerce**  
-A multilingual storefront built with Next.js, TypeScript, and Shopify
-integration, with automated tests and a demo catalogue.
-
-[Try the demo](https://paw-pine-commerce.vercel.app/) ·
-[Source code](https://github.com/karinehei/paw_pine-_commerce)
-
-**Matkalle — Journey Planning & Tickets**  
-An independent UX/UI prototype connecting route selection with ticket
-choice, using example journeys and simulated payment.
-
-[Try the demo](https://karinehei.github.io/matkalle-figma/) ·
-[Source code](https://github.com/karinehei/matkalle-figma)
-
-**Cargo Risk ML Lab**  
-A machine learning portfolio using synthetic shipment data, with model
-comparisons, threshold analysis, and explanations of offline predictions.
-
-[Explore results](https://karinehei.github.io/Cargo-Risk-ML-Lab/) ·
-[Source code](https://github.com/karinehei/Cargo-Risk-ML-Lab)
-
-**SoteOps Agent**  
-A Finnish-language access-request workflow prototype combining
-AI-assisted preparation, policy checks, source citations, and human
-approval. Six recorded scenarios demonstrate the workflow using
-synthetic data and simulated AI.
-
-[Watch the walkthrough](https://github.com/karinehei/soteops-agent/blob/main/docs/walkthrough/README.md) ·
-[Source code](https://github.com/karinehei/soteops-agent)
-
-**GeoSample Explorer**  
-A full-stack geospatial application built with React, TypeScript,
-ASP.NET Core, and SQLite for managing field observations, filtering
-map data, and exporting GeoJSON. Includes automated tests and GitHub
-Actions CI. A separate public demo visualizes occupational-disease
-case counts by Finnish region and year.
-
-[Explore the regional demo](https://karinehei.github.io/GeoSample-Explorer/worklife-regions.html?year=all) ·
-[Source code & application walkthrough](https://github.com/karinehei/GeoSample-Explorer)
-
-**Reproducible Data Pipeline & Reporting**  
-An R-based data pipeline with schema validation, reproducible workflows
-using targets and renv, automated tests, and Quarto reporting.
-Includes a synthetic healthcare example and an analysis of published
-Finnish occupational-disease data, with reports built and published
-through GitHub Actions.
-
-[Explore the reports](https://karinehei.github.io/phds-data-pipeline-as-code/) ·
-[Source code](https://github.com/karinehei/phds-data-pipeline-as-code)
-
-**TherapyCare**  
-A full-stack clinic-management project built with React, TypeScript,
-Django REST Framework, and PostgreSQL. The browser demo lets visitors
-explore therapist search, appointment booking, and referral workflows
-using fictional data and simulated roles.
-
-[Try the demo](https://karinehei.github.io/TherapyCare/) ·
-[Source code](https://github.com/karinehei/TherapyCare)
-
-### Technologies I work with
-
-- **Development:** TypeScript, JavaScript, Angular, Node.js, Python
-- **Cloud & DevOps:** AWS, Terraform, Ansible, Docker, GitHub Actions
-- **Testing & monitoring:** Playwright, Robot Framework, Jest, Datadog
-- **Data & AI:** PostgreSQL, Qdrant, embeddings, retrieval evaluation
+</details>
 
 Based in Finland.
