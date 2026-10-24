@@ -62,7 +62,21 @@ I'm also a doctoral student in Information Studies at Tampere University, resear
 
 ### Core tools
 
-TypeScript · React · Python · Node.js · PostgreSQL · AWS · Docker · Playwright
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![Angular](https://skillicons.dev/icons?i=angular)](https://angular.dev/)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![Terraform](https://skillicons.dev/icons?i=terraform)](https://www.terraform.io/)
+[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
+<a href="https://playwright.dev/" title="Playwright"><img src="https://cdn.simpleicons.org/playwright/2EAD33" alt="Playwright" width="48" height="48" /></a>
+<a href="https://qdrant.tech/" title="Qdrant"><img src="https://cdn.simpleicons.org/qdrant/DC244C" alt="Qdrant" width="48" height="48" /></a>
+<a href="https://streamlit.io/" title="Streamlit"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit" width="48" height="48" /></a>
+
+<img src="https://api.iconify.design/mdi:dots-horizontal.svg?color=%2394A3B8&width=48&height=48" alt="and others" title="and others" width="48" height="48" />
 
 <details>
 <summary>Find the Signal — a retrieval animation</summary>
