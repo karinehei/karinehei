@@ -72,11 +72,10 @@ I'm also a doctoral student in Information Studies at Tampere University, resear
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![Terraform](https://skillicons.dev/icons?i=terraform)](https://www.terraform.io/)
 [![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
-<a href="https://playwright.dev/" title="Playwright"><img src="https://cdn.simpleicons.org/playwright/2EAD33" alt="Playwright" width="48" height="48" /></a>
-<a href="https://qdrant.tech/" title="Qdrant"><img src="https://cdn.simpleicons.org/qdrant/DC244C" alt="Qdrant" width="48" height="48" /></a>
-<a href="https://streamlit.io/" title="Streamlit"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit" width="48" height="48" /></a>
-
-<img src="https://api.iconify.design/mdi:dots-horizontal.svg?color=%2394A3B8&width=48&height=48" alt="and others" title="and others" width="48" height="48" />
+[![Playwright](assets/icons/playwright.svg)](https://playwright.dev/)
+[![Qdrant](assets/icons/qdrant.svg)](https://qdrant.tech/)
+[![Streamlit](assets/icons/streamlit.svg)](https://streamlit.io/)
+<img src="assets/icons/more.svg" alt="and others" title="and others" width="48" height="48" />
 
 <details>
 <summary>Find the Signal — a retrieval animation</summary>
