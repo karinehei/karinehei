@@ -8,49 +8,54 @@ I'm also a doctoral student in Information Studies at Tampere University, resear
 ### Featured projects
 
 **TherapyCare** — Clinic workflows with appointments and referrals.  
-[Interactive demo](https://karinehei.github.io/TherapyCare/) · [Code](https://github.com/karinehei/TherapyCare)  
+[Demo](https://karinehei.github.io/TherapyCare/) · [Code](https://github.com/karinehei/TherapyCare)  
 <sub>React · Django · PostgreSQL — fictional demo data</sub>
 
 **SoteOps Agent** — Access-request preparation with policy checks and human approval.  
-[Recorded walkthrough](https://github.com/karinehei/soteops-agent/blob/main/docs/walkthrough/README.md) · [Code](https://github.com/karinehei/soteops-agent)  
+[Walkthrough](https://github.com/karinehei/soteops-agent/blob/main/docs/walkthrough/README.md) · [Code](https://github.com/karinehei/soteops-agent)  
 <sub>Next.js · FastAPI · LangGraph — synthetic data and simulated AI</sub>
 
 **Paw & Pine Commerce** — Multilingual shopping experience with Shopify integration.  
-[Storefront demo](https://paw-pine-commerce.vercel.app/) · [Code](https://github.com/karinehei/paw_pine-_commerce)  
+[Demo](https://paw-pine-commerce.vercel.app/) · [Code](https://github.com/karinehei/paw_pine-_commerce)  
 <sub>Next.js · Shopify · Playwright</sub>
 
 <details>
 <summary>More projects — AI, architecture, UX & data</summary>
 
 - **Transparent News Assistant** — Explore RAG answers, source citations, retrieval details, and audit history through prepared examples.
-  [Interactive demo](https://karinehei.github.io/qdrant_transparent_news_assistant/) ·
+  [Demo](https://karinehei.github.io/qdrant_transparent_news_assistant/) ·
   [Code](https://github.com/karinehei/qdrant_transparent_news_assistant)
 
 - **Atlas · Architecture Explorer** — Edit RAG architecture diagrams, trace dependencies, and export models for Python-generated documentation.
-  [Interactive demo](https://karinehei.github.io/architecture-explorer/#overview) ·
+  [Demo](https://karinehei.github.io/architecture-explorer/#overview) ·
   [Code](https://github.com/karinehei/architecture-explorer)
 
 - **EXAM · Architecture & Ops Upgrade** — Architecture and operations showcase based on CSC’s EXAM system, with fictional reports and simulated service-health scenarios.
-  [Interactive demo](https://karinehei.github.io/EXAM-Architecture---Ops-Upgrade/#/reports) ·
+  [Demo](https://karinehei.github.io/EXAM-Architecture---Ops-Upgrade/#/reports) ·
   [Code](https://github.com/karinehei/EXAM-Architecture---Ops-Upgrade)
-- **Identity Integration Explorer** — Explore simulated identity flows, failure scenarios, correlation IDs, and audit logs.
-  [Interactive demo](https://karinehei.github.io/suomifi-integration-starter/) ·
-  [Code](https://github.com/karinehei/suomifi-integration-starter)  
 
-- **Matkalle:** journey planning and ticket-selection prototype.
+- **Identity Integration Explorer** — Explore simulated identity flows, failure scenarios, correlation IDs, and audit logs.
+  [Demo](https://karinehei.github.io/suomifi-integration-starter/) ·
+  [Code](https://github.com/karinehei/suomifi-integration-starter)
+
+- **SafeShare J2** — A local secret-scanning tool with a browser explorer for detection findings and partial-redaction results on synthetic examples.
+  [Results](https://karinehei.github.io/SafeShare-J2/) ·
+  [Code](https://github.com/karinehei/SafeShare-J2)
+
+- **Matkalle** — Journey planning and ticket-selection prototype.
   [Demo](https://karinehei.github.io/matkalle-figma/) ·
   [Code](https://github.com/karinehei/matkalle-figma)
 
-- **Cargo Risk ML Lab:** model comparisons and offline predictions on synthetic data.
+- **Cargo Risk ML Lab** — Model comparisons and offline predictions on synthetic data.
   [Results](https://karinehei.github.io/Cargo-Risk-ML-Lab/) ·
   [Code](https://github.com/karinehei/Cargo-Risk-ML-Lab)
 
-- **GeoSample Explorer:** full-stack geospatial application with a separate regional statistics demo.
-  [Map demo](https://karinehei.github.io/GeoSample-Explorer/worklife-regions.html?year=all) ·
+- **GeoSample Explorer** — Full-stack geospatial application with a separate regional statistics demo.
+  [Demo](https://karinehei.github.io/GeoSample-Explorer/worklife-regions.html?year=all) ·
   [Code](https://github.com/karinehei/GeoSample-Explorer)
 
-- **Reproducible Data Pipeline:** R workflows, validation, and automated Quarto reports.
-  [Reports](https://karinehei.github.io/phds-data-pipeline-as-code/) ·
+- **Reproducible Data Pipeline** — R workflows, validation, and automated Quarto reports.
+  [Results](https://karinehei.github.io/phds-data-pipeline-as-code/) ·
   [Code](https://github.com/karinehei/phds-data-pipeline-as-code)
 
 </details>
