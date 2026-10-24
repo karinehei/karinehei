@@ -30,6 +30,10 @@ I'm also a doctoral student in Information Studies at Tampere University, resear
   [Interactive demo](https://karinehei.github.io/architecture-explorer/#overview) ·
   [Code](https://github.com/karinehei/architecture-explorer)
 
+- **EXAM · Architecture & Ops Upgrade** — Architecture and operations showcase based on CSC’s EXAM system, with fictional reports and simulated service-health scenarios.
+  [Interactive demo](https://karinehei.github.io/EXAM-Architecture---Ops-Upgrade/#/reports) ·
+  [Code](https://github.com/karinehei/EXAM-Architecture---Ops-Upgrade)  
+
 - **Matkalle:** journey planning and ticket-selection prototype.
   [Demo](https://karinehei.github.io/matkalle-figma/) ·
   [Code](https://github.com/karinehei/matkalle-figma)
