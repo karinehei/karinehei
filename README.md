@@ -32,7 +32,10 @@ I'm also a doctoral student in Information Studies at Tampere University, resear
 
 - **EXAM · Architecture & Ops Upgrade** — Architecture and operations showcase based on CSC’s EXAM system, with fictional reports and simulated service-health scenarios.
   [Interactive demo](https://karinehei.github.io/EXAM-Architecture---Ops-Upgrade/#/reports) ·
-  [Code](https://github.com/karinehei/EXAM-Architecture---Ops-Upgrade)  
+  [Code](https://github.com/karinehei/EXAM-Architecture---Ops-Upgrade)
+- **Identity Integration Explorer** — Explore simulated identity flows, failure scenarios, correlation IDs, and audit logs.
+  [Interactive demo](https://karinehei.github.io/suomifi-integration-starter/) ·
+  [Code](https://github.com/karinehei/suomifi-integration-starter)  
 
 - **Matkalle:** journey planning and ticket-selection prototype.
   [Demo](https://karinehei.github.io/matkalle-figma/) ·
