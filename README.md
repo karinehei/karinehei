@@ -22,6 +22,8 @@ I'm also a doctoral student in Information Studies at Tampere University, resear
 <details>
 <summary>More projects — AI, architecture, UX & data</summary>
 
+**AI & retrieval**
+
 - **Transparent News Assistant** — Explore RAG answers, source citations, retrieval details, and audit history through prepared examples.
   [Demo](https://karinehei.github.io/qdrant_transparent_news_assistant/) ·
   [Code](https://github.com/karinehei/qdrant_transparent_news_assistant)
@@ -29,6 +31,13 @@ I'm also a doctoral student in Information Studies at Tampere University, resear
 - **Atlas · Architecture Explorer** — Edit RAG architecture diagrams, trace dependencies, and export models for Python-generated documentation.
   [Demo](https://karinehei.github.io/architecture-explorer/#overview) ·
   [Code](https://github.com/karinehei/architecture-explorer)
+
+- **Qdrant RAG · Thesis Results** — Explore my published thesis research on retrieval quality and latency in a Finnish-language RAG system.
+  [Results](https://karinehei.github.io/qdrant_oppari/#/yleiskuva) ·
+  [Code](https://github.com/karinehei/qdrant_oppari) ·
+  [Thesis](https://www.theseus.fi/items/4c5b8d64-c921-47f4-9c9a-52866778055a)
+
+**Architecture & systems**
 
 - **EXAM · Architecture & Ops Upgrade** — Architecture and operations showcase based on CSC’s EXAM system, with fictional reports and simulated service-health scenarios.
   [Demo](https://karinehei.github.io/EXAM-Architecture---Ops-Upgrade/#/reports) ·
@@ -42,9 +51,7 @@ I'm also a doctoral student in Information Studies at Tampere University, resear
   [Results](https://karinehei.github.io/SafeShare-J2/) ·
   [Code](https://github.com/karinehei/SafeShare-J2)
 
-- **Matkalle** — Journey planning and ticket-selection prototype.
-  [Demo](https://karinehei.github.io/matkalle-figma/) ·
-  [Code](https://github.com/karinehei/matkalle-figma)
+**Data & ML**
 
 - **Cargo Risk ML Lab** — Model comparisons and offline predictions on synthetic data.
   [Results](https://karinehei.github.io/Cargo-Risk-ML-Lab/) ·
@@ -58,23 +65,23 @@ I'm also a doctoral student in Information Studies at Tampere University, resear
   [Results](https://karinehei.github.io/phds-data-pipeline-as-code/) ·
   [Code](https://github.com/karinehei/phds-data-pipeline-as-code)
 
+**UX & interactive demos**
+
+- **Matkalle** — Journey planning and ticket-selection prototype.
+  [Demo](https://karinehei.github.io/matkalle-figma/) ·
+  [Code](https://github.com/karinehei/matkalle-figma)
+
 - **Suomen mestari Quiz** — A browser-based quiz for practising Finnish as a second language.
-  [Try quiz](https://karinehei.github.io/suomen-mestari-quiz/) ·
+  [Demo](https://karinehei.github.io/suomen-mestari-quiz/) ·
   [Code](https://github.com/karinehei/suomen-mestari-quiz)
 
- - **Fingerpose Game** — A webcam game with real-time hand tracking and gesture matching using TensorFlow.js and MediaPipe Hands.
-  [Play demo](https://fingerpose-game-64s7stxcx-karineheis-projects.vercel.app/) ·
+- **Fingerpose Game** — A webcam game with real-time hand tracking and gesture matching using TensorFlow.js and MediaPipe Hands. Camera permission required.
+  [Demo](https://fingerpose-game-64s7stxcx-karineheis-projects.vercel.app/) ·
   [Code](https://github.com/karinehei/fingerpose-game)
-  Camera permission required.
-
-- **Qdrant RAG · Thesis Results** — Explore my published thesis research on retrieval quality and latency in a Finnish-language RAG system.
-  [Explore results](https://karinehei.github.io/qdrant_oppari/#/yleiskuva) ·
-  [Code](https://github.com/karinehei/qdrant_oppari) ·
-  [Read thesis](https://www.theseus.fi/items/4c5b8d64-c921-47f4-9c9a-52866778055a)
 
 - **Alko Catalog** — A PHP and MySQL product catalogue with search, filtering, and price-list imports.
-  [Try application](https://price-list.caeloryxsystems.com/) ·
-  [Code](https://github.com/karinehei/php_amk_course)  
+  [Demo](https://price-list.caeloryxsystems.com/) ·
+  [Code](https://github.com/karinehei/php_amk_course)
 
 </details>
 
